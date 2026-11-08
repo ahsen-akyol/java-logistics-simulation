@@ -12,8 +12,7 @@ Gerçek dünya lojistik problemlerini modellemek amacıyla; **Kalıtım (Inherit
 
 ## Sistem Mimarisi ve UML Diyagramı
 Projenin sınıf hiyerarşisi, ilişkileri ve soyutlama yapıları UML standartlarına uygun olarak modellenmiştir.
-![UML Sınıf Diyagramı](UML Diyagramı.drawio.png)
-
+![UML Sınıf Diyagramı](UML%20Diyagram%C4%B1.drawio.png)
 
 
 ## Sınıf Yapıları ve Sorumluluklar
