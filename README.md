@@ -11,8 +11,8 @@ Gerçek dünya lojistik problemlerini modellemek amacıyla; **Kalıtım (Inherit
 
 
 ## Sistem Mimarisi ve UML Diyagramı
-Projenin sınıf hiyerarşisi, ilişkileri ve soyutlama yapıları UML standartlarına uygun olarak modellenmiştir.
-![UML Sınıf Diyagramı](rapor/UML%20Diyagramı%C4%B1.drawio.png)
+Sınıf diyagramları, tasarım detayları rapor klasörü içerisinde yer almaktadır.
+
 
 ## Sınıf Yapıları ve Sorumluluklar
 
@@ -50,7 +50,9 @@ Projenin sınıf hiyerarşisi, ilişkileri ve soyutlama yapıları UML standartl
 - Bilgisayarınızda **Java (JDK 8 veya üzeri)** kurulu olmalıdır.
 
 ### Adımlar
-Proje dosyalarının bulunduğu dizinde terminal veya komut istemcisini açarak sırasıyla şu komutları çalıştırın:
 
-- javac *.java
-- java Main
+Proje ana dizininde terminal veya komut istemcisini açarak sırasıyla şu komutları çalıştırın:
+
+* cd src
+* javac Projem/*.java
+* java Projem.Main
