@@ -54,6 +54,6 @@ Projenin sınıf hiyerarşisi, ilişkileri ve soyutlama yapıları UML standartl
 ### Adımlar
 Proje dosyalarının bulunduğu dizinde terminal veya komut istemcisini açarak sırasıyla şu komutları çalıştırın:
 
-```bash
+bash
 javac *.java
 java Main
